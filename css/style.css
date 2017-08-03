@@ -1,0 +1,14 @@
+body, html{
+    text-align: center;
+    padding-top: 5rem;
+}
+
+img {
+    box-shadow: 0px 0px 8px 2px black;
+    display: inline-block;
+    margin-bottom: 5rem;
+}
+
+input{
+    display: inline-block;
+}
